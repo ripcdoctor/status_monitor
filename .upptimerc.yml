@@ -1,6 +1,7 @@
 # Change these first
 owner: ripcdoctor # Your GitHub organization or username, where this repository lives
 repo: status_monitor # The name of this repository
+user-agent: ripcdoctor
 
 assignees:
   - ripcdoctor
@@ -20,7 +21,7 @@ sites:
     url: https://peterohara.ddns.net:8089
     # port: 8089
     maxResponseTime: 5000
-    __dangerous__disable_verify_peer: true
+    __dangerous__insecure: true
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
