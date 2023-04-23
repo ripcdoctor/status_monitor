@@ -7,7 +7,7 @@ sites:
     url: https://ripcdoctor.cloud
     maxResponseTime: 5000
   - name: Web Hosting Services
-    url: https://ripcdoctor.com
+    url: https://ripcdoctor.com/book-appointment/
     maxResponseTime: 5000
   - name: Short URL Services (ripcdoctor.net/go)
     url: https://ripcdoctor.net/go
