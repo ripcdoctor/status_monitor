@@ -16,9 +16,9 @@ sites:
     url: https://ripcdoctor.net/go
     maxResponseTime: 5000
   - name: VoIP & Unified Call Management Services
-    check: tcp-ping
-    url: https://peterohara.ddns.net
-    port: 8089
+    # check: tcp-ping
+    url: https://peterohara.ddns.net:8089
+    # port: 8089
     maxResponseTime: 5000
     __dangerous__disable_verify_peer: true
     
