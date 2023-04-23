@@ -2,6 +2,9 @@
 owner: ripcdoctor # Your GitHub organization or username, where this repository lives
 repo: status_monitor # The name of this repository
 
+assignees:
+  - ripcdoctor
+  
 sites:
   - name: Cloud Hosted Services
     url: https://ripcdoctor.cloud
