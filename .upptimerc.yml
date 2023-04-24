@@ -11,7 +11,7 @@ sites:
     url: https://ripcdoctor.cloud
     maxResponseTime: 5000
   - name: Web Hosting Services
-    url: https://ripcdoctor.com
+    url: https://ripcdoctor.com/wp-admin
     maxResponseTime: 5000
   - name: Short URL Services (ripcdoctor.net/go)
     url: https://ripcdoctor.net/go
@@ -30,8 +30,8 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://ripcdoctor.com/wp-content/uploads/2021/10/RIPCDoctorLogo.png.webp
   name: R.I. PC Doctor Services Status Monitor
-  introTitle: "Title"
-  introMessage: Our status page is powered by **Upptime**, the open-source uptime monitor and status page, powered entirely by GitHub. This status page uses **real-time** data from our [GitHub repository](https://github.com/ripcdoctor/status_monitor). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "Operational Status of All Services"
+  introMessage: Our status page is powered by **R.I. PC Doctor's status-monitor**, the open-source uptime monitor and status page, powered entirely by GitHub. This status page uses **real-time** data from our [GitHub repository](https://github.com/ripcdoctor/status_monitor). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/ripcdoctor/status_monitor)
   navbar:
     - title: Status
       href: /
