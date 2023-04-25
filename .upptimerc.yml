@@ -7,6 +7,9 @@ assignees:
   - ripcdoctor
   
 sites:
+  - name: Web Hosting Services
+    url: https://ripcdoctor.com
+    maxResponseTime: 500
   - name: Cloud Hosted Services
     url: https://ripcdoctor.cloud
     maxResponseTime: 500
