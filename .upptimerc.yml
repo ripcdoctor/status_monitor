@@ -10,9 +10,6 @@ sites:
   - name: Cloud Hosted Services
     url: https://ripcdoctor.cloud
     maxResponseTime: 500
-  - name: Web Hosting Services
-    url: https://ripcdoctor.com/wp-admin
-    maxResponseTime: 500
   - name: Short URL Services (ripcdoctor.net/go)
     url: https://ripcdoctor.net/go
     maxResponseTime: 500
