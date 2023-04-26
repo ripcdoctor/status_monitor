@@ -4,18 +4,20 @@
     "url": "https://ripcdoctor.com/status",
     "icon": "https://icons.duckduckgo.com/ip3/ripcdoctor.com.ico",
     "slug": "web-hosting-services",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 92,
-    "timeDay": 94,
-    "timeWeek": 92,
-    "timeMonth": 92,
-    "timeYear": 92,
-    "dailyMinutesDown": {}
+    "status": "degraded",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 157,
+    "timeDay": 255,
+    "timeWeek": 157,
+    "timeMonth": 157,
+    "timeYear": 157,
+    "dailyMinutesDown": {
+      "2023-04-26": 0
+    }
   },
   {
     "name": "Cloud Hosted Services",
