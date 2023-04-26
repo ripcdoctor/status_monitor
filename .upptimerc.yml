@@ -31,12 +31,8 @@ status-website:
   introTitle: "Operational Status of All Services"
   introMessage: "Our status page is powered by **R.I. PC Doctor's status-monitor**, the open-source uptime monitor and status page, powered entirely by GitHub. This status page uses **real-time** data from our [GitHub repository](https://github.com/ripcdoctor/status_monitor). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/ripcdoctor/status_monitor)."
   navbar:
-    - title: Status
-      href: /
-    - title: Cloud Login
-      href: https://ripcdoctor.cloud
-    - title: Visit us on the Web
-      url: https://ripcdoctor.com
+    - title: Home
+      href: https://ripcdoctor.com
     - title: Contact Us
       href: https://ripcdoctor.com/contact
 
