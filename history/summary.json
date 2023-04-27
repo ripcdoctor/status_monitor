@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/ripcdoctor.com.ico",
     "slug": "web-hosting-services",
     "status": "down",
-    "uptime": "96.70%",
-    "uptimeDay": "96.70%",
-    "uptimeWeek": "96.70%",
-    "uptimeMonth": "96.70%",
-    "uptimeYear": "96.70%",
-    "time": 154,
-    "timeDay": 239,
-    "timeWeek": 154,
-    "timeMonth": 154,
-    "timeYear": 154,
+    "uptime": "78.72%",
+    "uptimeDay": "76.83%",
+    "uptimeWeek": "78.72%",
+    "uptimeMonth": "78.72%",
+    "uptimeYear": "78.72%",
+    "time": 151,
+    "timeDay": 253,
+    "timeWeek": 151,
+    "timeMonth": 151,
+    "timeYear": 151,
     "dailyMinutesDown": {
-      "2023-04-26": 42
+      "2023-04-27": 71,
+      "2023-04-26": 263
     }
   },
   {
@@ -30,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 229,
-    "timeDay": 196,
-    "timeWeek": 229,
-    "timeMonth": 229,
-    "timeYear": 229,
+    "time": 228,
+    "timeDay": 194,
+    "timeWeek": 228,
+    "timeMonth": 228,
+    "timeYear": 228,
     "dailyMinutesDown": {}
   },
   {
@@ -49,7 +50,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 441,
-    "timeDay": 348,
+    "timeDay": 321,
     "timeWeek": 441,
     "timeMonth": 441,
     "timeYear": 441,
@@ -66,11 +67,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 287,
-    "timeDay": 289,
-    "timeWeek": 287,
-    "timeMonth": 287,
-    "timeYear": 287,
+    "time": 285,
+    "timeDay": 262,
+    "timeWeek": 285,
+    "timeMonth": 285,
+    "timeYear": 285,
     "dailyMinutesDown": {}
   }
 ]
