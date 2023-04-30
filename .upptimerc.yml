@@ -23,10 +23,17 @@ sites:
     check: "tcp-ping"
     url: ssr18.supercp.com
     port: 993
+    icon: https://ripcdoctor.net/emailfavicon.png
   - name: Outbound Mail (SMTP)
     check: "tcp-ping"
     url: ssr18.supercp.com
     port: 587
+    icon: https://ripcdoctor.net/emailfavicon.png
+  - name: Hosted DNS
+    check: "tcp-ping"
+    url: ssr18.supercp.com
+    port: 53
+    icon: https://ripcdoctor.net/dnsfavicon.png
   - name: Cloud Hosting Services
     url: https://ripcdoctor.cloud
     maxResponseTime: 2500
