@@ -19,6 +19,14 @@ sites:
       - 201
       - 403
     icon: https://ripcdoctor.net/wordpressfavicon.png
+  - name: Inbound Mail (POP/IMAP)
+    check: "tcp-ping"
+    url: ssr18.supercp.com
+    port: 993
+  - name: Outbound Mail (SMTP)
+    check: "tcp-ping"
+    url: ssr18.supercp.com
+    port: 587
   - name: Cloud Hosting Services
     url: https://ripcdoctor.cloud
     maxResponseTime: 2500
