@@ -2,7 +2,7 @@
   {
     "name": "Web Hosting Services",
     "url": "https://ripcdoctor.com",
-    "icon": "https://ripcdoctor.net/favicon.png",
+    "icon": "https://ripcdoctor.net/wordpressfavicon.png",
     "slug": "web-hosting-services",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 136,
-    "timeDay": 95,
-    "timeWeek": 148,
-    "timeMonth": 136,
-    "timeYear": 136,
+    "time": 134,
+    "timeDay": 92,
+    "timeWeek": 145,
+    "timeMonth": 134,
+    "timeYear": 134,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1302,
-    "timeDay": 1302,
-    "timeWeek": 1302,
-    "timeMonth": 1302,
-    "timeYear": 1302,
+    "time": 1238,
+    "timeDay": 1238,
+    "timeWeek": 1238,
+    "timeMonth": 1238,
+    "timeYear": 1238,
     "dailyMinutesDown": {}
   },
   {
@@ -47,8 +47,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 392,
-    "timeDay": 278,
-    "timeWeek": 351,
+    "timeDay": 291,
+    "timeWeek": 353,
     "timeMonth": 392,
     "timeYear": 392,
     "dailyMinutesDown": {}
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 291,
-    "timeDay": 315,
-    "timeWeek": 293,
-    "timeMonth": 291,
-    "timeYear": 291,
+    "time": 288,
+    "timeDay": 306,
+    "timeWeek": 291,
+    "timeMonth": 288,
+    "timeYear": 288,
     "dailyMinutesDown": {}
   }
 ]
