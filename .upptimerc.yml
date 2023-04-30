@@ -18,7 +18,7 @@ sites:
       - 200
       - 201
       - 403
-    icon: https://ripcdoctor.net/favicon.png
+    icon: https://ripcdoctor.net/wordpressfavicon.png
   - name: Cloud Hosting Services
     url: https://ripcdoctor.cloud
     maxResponseTime: 2500
