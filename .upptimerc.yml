@@ -39,6 +39,8 @@ status-website:
       href: https://ripcdoctor.com
     - title: Contact Us
       href: https://ripcdoctor.com/contact
+  i18n:
+    footer: This page is [open source]($REPO), powered by [R.I. PC Doctor](https://ripcdoctor.com)
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
