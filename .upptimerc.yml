@@ -14,23 +14,27 @@ sites:
       - 200
       - 201
       - 403
+    favicon: https://status.ripcdoctor.net/favicon.png
   - name: Cloud Hosted Services
     url: https://ripcdoctor.cloud
-    maxResponseTime: 500
+    maxResponseTime: 1500
+    favicon: https://status.ripcdoctor.net/favicon.png
   - name: Short URL Services (ripcdoctor.net/go)
     url: https://ripcdoctor.net/go
     maxResponseTime: 500
+    favicon: https://ripcdoctor.net/go/images/favicon.svg
   - name: VoIP & Unified Call Management Services
     url: https://peterohara.ddns.net:8089
     maxResponseTime: 500
     __dangerous__insecure: true
+    favicon: https://status.ripcdoctor.net/favicon.png
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.ripcdoctor.net
   # baseUrl: /your-repo-name
-  logoUrl: https://ripcdoctor.com/wp-content/uploads/2021/10/RIPCDoctorLogo.png.webp
+  logoUrl: https://status.ripcdoctor.net/logo.png
   name: R.I. PC Doctor Services Status Monitor
   introTitle: "Operational Status of All Services"
   introMessage: Our status page is powered by **R.I. PC Doctor's status-monitor**, the open-source uptime monitor and status page, powered entirely by GitHub. This status page uses **real-time** data from our [GitHub repository](https://github.com/ripcdoctor/status_monitor). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/ripcdoctor/status_monitor).
@@ -39,8 +43,15 @@ status-website:
       href: https://ripcdoctor.com
     - title: Contact Us
       href: https://ripcdoctor.com/contact
+  favicon: https://status.ripcdoctor.net/favicon.png
+  robotsText: "User-agent: * \n Disallow: /"
+  theme: ocean
   i18n:
     footer: This page is [open source]($REPO), powered by [R.I. PC Doctor](https://ripcdoctor.com)
+    
+commitMessages:
+  commitAuthorName: "R.I. PC Doctor Status-Bot"
+  commitAuthorEmail: "pete@ripcdoctor.com"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
