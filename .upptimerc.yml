@@ -8,8 +8,12 @@ assignees:
   
 sites:
   - name: Web Hosting Services
-    url: https://ripcdoctor.com/status
+    url: https://ripcdoctor.com
     maxResponseTime: 500
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 403
   - name: Cloud Hosted Services
     url: https://ripcdoctor.cloud
     maxResponseTime: 500
