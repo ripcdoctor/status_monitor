@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 130,
     "timeDay": 95,
-    "timeWeek": 155,
+    "timeWeek": 94,
     "timeMonth": 130,
     "timeYear": 130,
     "dailyMinutesDown": {}
@@ -76,18 +76,20 @@
     "url": "https://ripcdoctor.cloud",
     "icon": "https://ripcdoctor.net/cloudfavicon.png",
     "slug": "cloud-hosting-services",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1200,
-    "timeDay": 1177,
-    "timeWeek": 1200,
-    "timeMonth": 1200,
-    "timeYear": 1200,
-    "dailyMinutesDown": {}
+    "time": 1104,
+    "timeDay": 710,
+    "timeWeek": 1104,
+    "timeMonth": 1104,
+    "timeYear": 1104,
+    "dailyMinutesDown": {
+      "2023-05-03": 0
+    }
   },
   {
     "name": "Short URL Services (ripcdoctor.net/go)",
@@ -102,7 +104,7 @@
     "uptimeYear": "100.00%",
     "time": 394,
     "timeDay": 495,
-    "timeWeek": 320,
+    "timeWeek": 326,
     "timeMonth": 394,
     "timeYear": 394,
     "dailyMinutesDown": {}
@@ -120,7 +122,7 @@
     "uptimeYear": "100.00%",
     "time": 300,
     "timeDay": 462,
-    "timeWeek": 299,
+    "timeWeek": 313,
     "timeMonth": 300,
     "timeYear": 300,
     "dailyMinutesDown": {}
