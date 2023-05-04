@@ -58,9 +58,9 @@
     "url": "ssr18.supercp.com",
     "icon": "https://ripcdoctor.net/dnsfavicon.png",
     "slug": "hosted-dns",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +69,9 @@
     "timeWeek": 112,
     "timeMonth": 112,
     "timeYear": 112,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-04": 0
+    }
   },
   {
     "name": "Cloud Hosting Services",
@@ -77,11 +79,11 @@
     "icon": "https://ripcdoctor.net/cloudfavicon.png",
     "slug": "cloud-hosting-services",
     "status": "up",
-    "uptime": "99.36%",
+    "uptime": "99.44%",
     "uptimeDay": "97.96%",
-    "uptimeWeek": "99.36%",
-    "uptimeMonth": "99.36%",
-    "uptimeYear": "99.36%",
+    "uptimeWeek": "99.44%",
+    "uptimeMonth": "99.44%",
+    "uptimeYear": "99.44%",
     "time": 1044,
     "timeDay": 576,
     "timeWeek": 1044,
