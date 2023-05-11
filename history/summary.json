@@ -97,18 +97,20 @@
     "url": "https://ripcdoctor.net/go",
     "icon": "https://ripcdoctor.net/go/images/favicon.svg",
     "slug": "short-url-services-ripcdoctor-net-go",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 359,
-    "timeDay": 499,
-    "timeWeek": 223,
-    "timeMonth": 359,
-    "timeYear": 359,
-    "dailyMinutesDown": {}
+    "time": 364,
+    "timeDay": 572,
+    "timeWeek": 266,
+    "timeMonth": 364,
+    "timeYear": 364,
+    "dailyMinutesDown": {
+      "2023-05-11": 0
+    }
   },
   {
     "name": "VoIP & Unified Call Management Services",
