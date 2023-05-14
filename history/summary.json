@@ -77,14 +77,14 @@
     "icon": "https://ripcdoctor.net/cloudfavicon.png",
     "slug": "cloud-hosting-services",
     "status": "up",
-    "uptime": "99.78%",
+    "uptime": "99.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.78%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.79%",
     "time": 990,
     "timeDay": 1340,
-    "timeWeek": 1012,
+    "timeWeek": 1111,
     "timeMonth": 990,
     "timeYear": 990,
     "dailyMinutesDown": {
@@ -115,9 +115,9 @@
     "url": "https://peterohara.ddns.net:8089",
     "icon": "https://ripcdoctor.net/voipfavicon.png",
     "slug": "vo-ip-and-unified-call-management-services",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.87%",
@@ -127,6 +127,7 @@
     "timeMonth": 291,
     "timeYear": 291,
     "dailyMinutesDown": {
+      "2023-05-14": 0,
       "2023-05-06": 38
     }
   }
