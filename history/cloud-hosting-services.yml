@@ -1,7 +1,7 @@
 url: https://ripcdoctor.cloud
-status: degraded
-code: 503
-responseTime: 11183
-lastUpdated: 2023-05-17T23:32:54.084Z
+status: up
+code: 200
+responseTime: 1492
+lastUpdated: 2023-05-17T23:38:48.881Z
 startTime: Sun Apr 30 2023 20:04:09 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
