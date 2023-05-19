@@ -100,19 +100,19 @@
     "url": "https://ripcdoctor.net/go",
     "icon": "https://ripcdoctor.net/go/images/favicon.svg",
     "slug": "short-url-services-ripcdoctor-net-go",
-    "status": "degraded",
-    "uptime": "99.90%",
-    "uptimeDay": "97.51%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "97.11%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
     "time": 380,
-    "timeDay": 614,
-    "timeWeek": 453,
+    "timeDay": 583,
+    "timeWeek": 445,
     "timeMonth": 380,
     "timeYear": 380,
     "dailyMinutesDown": {
-      "2023-05-19": 35
+      "2023-05-19": 41
     }
   },
   {
