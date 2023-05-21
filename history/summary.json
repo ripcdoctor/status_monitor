@@ -122,7 +122,7 @@
     "url": "https://peterohara.ddns.net:8089",
     "icon": "https://ripcdoctor.net/voipfavicon.png",
     "slug": "vo-ip-and-unified-call-management-services",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -134,6 +134,7 @@
     "timeMonth": 298,
     "timeYear": 298,
     "dailyMinutesDown": {
+      "2023-05-21": 0,
       "2023-05-06": 38
     }
   }
