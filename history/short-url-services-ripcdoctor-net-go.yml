@@ -1,7 +1,7 @@
 url: https://ripcdoctor.net/go
-status: up
+status: degraded
 code: 200
-responseTime: 133
-lastUpdated: 2023-06-29T23:07:01.620Z
+responseTime: 1646
+lastUpdated: 2023-06-30T05:40:16.363Z
 startTime: Sun Apr 23 2023 12:07:48 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
