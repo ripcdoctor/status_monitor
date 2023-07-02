@@ -40,11 +40,11 @@
     "url": "ssr18.supercp.com",
     "icon": "https://ripcdoctor.net/emailfavicon.png",
     "slug": "outbound-mail-smtp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "98.96%",
+    "uptimeDay": "98.92%",
     "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 98,
     "timeDay": 102,
@@ -52,7 +52,7 @@
     "timeMonth": 97,
     "timeYear": 98,
     "dailyMinutesDown": {
-      "2023-07-02": 15
+      "2023-07-02": 16
     }
   },
   {
@@ -79,18 +79,18 @@
     "icon": "https://ripcdoctor.net/cloudfavicon.png",
     "slug": "cloud-hosting-services",
     "status": "down",
-    "uptime": "96.36%",
+    "uptime": "95.93%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "72.82%",
-    "uptimeMonth": "93.14%",
-    "uptimeYear": "96.36%",
+    "uptimeWeek": "68.89%",
+    "uptimeMonth": "92.24%",
+    "uptimeYear": "95.93%",
     "time": 2949,
     "timeDay": 1646,
     "timeWeek": 3487,
     "timeMonth": 3016,
     "timeYear": 2949,
     "dailyMinutesDown": {
-      "2023-07-02": 372,
+      "2023-07-02": 768,
       "2023-07-01": 1440,
       "2023-06-30": 189,
       "2023-06-29": 429,
@@ -110,9 +110,9 @@
     "url": "https://ripcdoctor.net/go",
     "icon": "https://ripcdoctor.net/go/images/favicon.svg",
     "slug": "short-url-services-ripcdoctor-net-go",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.73%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
@@ -122,6 +122,7 @@
     "timeMonth": 472,
     "timeYear": 462,
     "dailyMinutesDown": {
+      "2023-07-02": 0,
       "2023-06-26": 27,
       "2023-05-19": 35
     }
